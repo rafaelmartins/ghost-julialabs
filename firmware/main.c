@@ -28,7 +28,6 @@ main(void)
     TCCR0A = (1 << WGM01);
     TCCR0B = (1 << CS02) | (1 << CS00);
     TIMSK = (1 << OCIE0A);
-    OCR0A = top;
 
     TCCR1 = (1 << CS13);
     GTCCR = (1 << PWM1B) | (1 << COM1B0);
