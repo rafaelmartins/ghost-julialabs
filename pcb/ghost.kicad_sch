@@ -858,7 +858,7 @@
     (property "Reference" "R2" (id 0) (at 198.12 72.3899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2k2" (id 1) (at 198.12 74.9299 0)
+    (property "Value" "47R" (id 1) (at 198.12 74.9299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 193.802 73.66 90)
@@ -1134,7 +1134,7 @@
     (property "Reference" "R1" (id 0) (at 186.69 72.3899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2k2" (id 1) (at 186.69 74.9299 0)
+    (property "Value" "47R" (id 1) (at 186.69 74.9299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 182.372 73.66 90)
@@ -1251,10 +1251,10 @@
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2")
     )
     (path "/c09425c9-49cf-4a9c-9231-e239993b348c"
-      (reference "R1") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R1") (unit 1) (value "47R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/0219e57b-4b68-4a94-85b0-1f597adf6c7b"
-      (reference "R2") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R2") (unit 1) (value "47R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/ff0630d9-e2cb-4ed4-87a6-9699c2ef85a8"
       (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_SMD:SW_SPDT_PCM12")

@@ -26,7 +26,7 @@ ID     | Description                   | Mouser No.
 ------ | ----------------------------- | ------------------------------------------------------------------------------
 U1     | Microcontrolador ATtiny85-20S | [556-ATTINY85-20SF](https://www.mouser.de/ProductDetail/556-ATTINY85-20SF)
 D1, D2 | LED SMD Branco "Side View"    | [743-IN-S85CS5UW](https://www.mouser.de/ProductDetail/743-IN-S85CS5UW)
-R1, R2 | Resistor SMD 2k2 0603         | [603-RC0603FR-072K2L](https://www.mouser.de/ProductDetail/603-RC0603FR-072K2L)
+R1, R2 | Resistor SMD 47R 0603         | [603-RC0603FR-0747RL](https://www.mouser.de/ProductDetail/603-RC0603FR-0747RL)
 C1     | Capacitor SMD 100nF 0603      | [810-C0603X7S1A104K](https://www.mouser.de/ProductDetail/810-C0603X7S1A104K)
 BT1    | Suporte para bateria CR2032   | [534-1058](https://www.mouser.de/ProductDetail/534-1058)
 SW1    | Chave SPDT ON-ON              | [611-PCM12SMTR](https://www.mouser.de/ProductDetail/611-PCM12SMTR)
