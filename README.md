@@ -37,7 +37,13 @@ SW1    | Chave SPDT ON-ON              | [611-PCM12SMTR](https://www.mouser.de/P
 
 ## Software
 
-A ser desenvolvido.
+Acesse o [release mais recente](https://github.com/rafaelmartins/ghost-julialabs/releases/latest) e faça o download do arquivo `ghost-julialabs.hex`. Grave o conteúdo deste arquivo na memória flash do `ATtiny85` da forma que achar mais conveniente. A forma mais popular entre os makers consiste na utilização do [AVRDUDE](https://www.nongnu.org/avrdude/) com um gravador de baixo custo como o [USBasp](https://www.fischl.de/usbasp/). A utilização dos mesmos foge do escopo desse documento.
+
+A seguinte configuração de `fuses` do `ATtiny85` é necessaria para o correto funcionamento (podem ser gravados utilizando a mesma ferramenta que gravou o firmware na memória flash):
+
+```
+low=0xE2, high=0x9F, extended=0xFF, lockbit=0xFF
+```
 
 
 ## License
