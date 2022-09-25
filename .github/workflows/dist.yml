@@ -35,7 +35,7 @@ jobs:
       - name: Build source code
         run: |
           export PATH="$(pwd)/avr/bin:${PATH}"
-          cmake -D CMAKE_BUILD_TYPE=Release -S "$(pwd)" -B "$(pwd)/build" -G Ninja
+          cmake -D CMAKE_BUILD_TYPE=Release -S "$(pwd)/firmware" -B "$(pwd)/build" -G Ninja
           cmake --build "$(pwd)/build" --target all
 
       - name: Upload HEX file
