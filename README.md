@@ -25,7 +25,8 @@ Arquivo `.zip` com Gerbers disponivel [aqui](/pcb/gerber/). Para produzir as pla
 ID     | Description                   | Mouser No.
 ------ | ----------------------------- | ------------------------------------------------------------------------------
 U1     | Microcontrolador ATtiny85-20S | [556-ATTINY85-20SF](https://www.mouser.de/ProductDetail/556-ATTINY85-20SF)
-D1, D2 | LED SMD Branco "Side View"    | [743-IN-S85CS5UW](https://www.mouser.de/ProductDetail/743-IN-S85CS5UW)
+D1     | LED SMD Verde "Side View"     | [710-155060VS75300](https://www.mouser.de/ProductDetail/710-155060VS75300)
+D2     | LED SMD Vermelho "Side View"  | [710-155060SS75300](https://www.mouser.de/ProductDetail/710-155060SS75300)
 R1, R2 | Resistor SMD 47R 0603         | [603-RC0603FR-0747RL](https://www.mouser.de/ProductDetail/603-RC0603FR-0747RL)
 C1     | Capacitor SMD 100nF 0603      | [810-C0603X7S1A104K](https://www.mouser.de/ProductDetail/810-C0603X7S1A104K)
 BT1    | Suporte para bateria CR2032   | [534-1058](https://www.mouser.de/ProductDetail/534-1058)
