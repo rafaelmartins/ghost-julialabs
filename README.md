@@ -9,8 +9,10 @@ Layout baseado na skin básica de fantasma do jogo Among Us.
 
 ### Placa de Circuito Impresso
 
-![placa de circuito impresso - frente](/images/pcb-3d-front.png)
-![placa de circuito impresso - verso](/images/pcb-3d-back.png)
+![placa de circuito impresso - frente](/images/pcb-front.jpg)
+![placa de circuito impresso - verso](/images/pcb-back.jpg)
+![placa de circuito impresso - modelo 3d frente](/images/pcb-3d-front.png)
+![placa de circuito impresso - modelo 3d verso](/images/pcb-3d-back.png)
 
 #### Produção
 
